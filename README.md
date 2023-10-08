@@ -12,7 +12,7 @@ Neste projeto, simulando uma estufa de hortaliças, foi desenvolvido no simulado
 
 ## Circuito
 
-![image-20231008175248075](C:\Users\Lohan\AppData\Roaming\Typora\typora-user-images\image-20231008175248075.png)
+![image-20231008175248075](./Circuito.png)
 
 [Circuito - Controle de temperatura](https://www.tinkercad.com/things/indk6247VXq?sharecode=RavtWvPjDJpf9-8u52gLcthKCSRvj84CN2Go3aO9l2E)
 
